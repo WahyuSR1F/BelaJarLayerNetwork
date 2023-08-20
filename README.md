@@ -4,25 +4,25 @@
 
 ### Osi Model
 
-### Application###
- ### |
- ### v
-### Presentation###
- ###|###
- ###v###
-Session
- ###|###
-    v
-Transport
-    |
-    v
-Network 
-    |
-    v
-Data Link
-    |
-    v
-Physical 
+#### Application
+ #### |
+ #### v
+#### Presentation
+ #### |
+ #### v
+#### Session
+ #### |
+ #### v
+#### Transport
+ #### |
+ #### v
+#### Network 
+  #### |
+  #### v
+#### Data Link
+  #### |
+  #### v
+#### Physical 
 
 Aplication layer adalah  lapisan paling atas yang menyediakan satu set antarmuka untuk aplikas, dimana mendapatkan akases  layanan jaringan serta akses ke layanan jaringan yang mendukung aplikasi secara langsung.
 
