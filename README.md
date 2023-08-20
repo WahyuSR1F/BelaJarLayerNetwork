@@ -2,7 +2,7 @@
 
 ## Model referensi Open System Interconnection (OSI) berfungsi sebagai elemen paling dasar dari jaringan komputer di awal tahub 1984.
 
-###Osi Model###
+### Osi Model
 
 ###Application###
  ###|###
