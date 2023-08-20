@@ -4,10 +4,10 @@
 
 ### Osi Model
 
-###Application###
- ###|###
- ###v###
-###Presentation###
+### Application###
+ ### |
+ ### v
+### Presentation###
  ###|###
  ###v###
 Session
